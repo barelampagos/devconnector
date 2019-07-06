@@ -6,5 +6,5 @@ MERN Stack implementation of the devconnector
 
 - Start MongoDB instance
 - npm install
-- node run server
+- npm run dev
 - Access application on http://localhost:5000
